@@ -26,6 +26,7 @@ Through an in-depth study of a single intersection, we hope to master more effec
 
 # Methodology
 **Deep Q networks (DQN)​**
+
 Deep Q-Networks (DQNs) are a type of neural network that is used to learn the optimal action-selection policy in a reinforcement learning setting.​
 
 DQNs work by using a neural network to approximate the action-value function, which maps states of the environment to the expected return (i.e., the sum of future rewards) for each possible action. The goal of the DQN is to learn the optimal policy, which is the action that will maximize the expected return for each state.​
