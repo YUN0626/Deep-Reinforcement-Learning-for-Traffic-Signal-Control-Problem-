@@ -15,7 +15,9 @@ December 25,2023/by 陳冠文、楊婷芸
 # Background and Motivation
 In recent years, urban traffic congestion has become increasingly serious. This is particularly due to the dynamic nature, complexity, and unpredictability of the traffic environment, making Traffic Signal Control (TSC) a highly challenging issue.
 
-In this study, we will use deep reinforcement learning to address the problem of traffic signal control. The research focuses on a single intersection, with the aim of first resolving the traffic issues at a single entry point. 
+In this study, we will use deep reinforcement learning to address the problem of traffic signal control. 
+
+The research focuses on a single intersection, with the aim of first resolving the traffic issues at a single entry point. 
 Through an in-depth study of a single intersection, we hope to master more effective traffic control strategies and apply these strategies to more complex traffic situations, thereby effectively alleviating urban traffic congestion.
 # Problem Definition
 ● Objective: Minimize the queue length of vehicles​
