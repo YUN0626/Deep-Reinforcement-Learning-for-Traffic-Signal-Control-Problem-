@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<routes>
+    <vType color="1,1,1" id="Car" maxSpeed="31.06" vClass="passenger"/>
+    <flow begin="0" color="1,1,1" end="3600" from="E2" id="F10" to="E3" type="Car" vehsPerHour="8.610000000000001"/>
+    <flow begin="0" color="1,1,1" end="3600" from="E2" id="F11" to="-E0" type="Car" vehsPerHour="221.4"/>
+    <flow begin="0" color="1,1,1" end="3600" from="E2" id="F12" to="-E1" type="Car" vehsPerHour="15.99"/>
+    <flow begin="0" color="1,1,1" end="3600" from="E0" id="F13" to="-E1" type="Car" vehsPerHour="4.8"/>
+    <flow begin="0" color="1,1,1" end="3600" from="E0" id="F14" to="-E2" type="Car" vehsPerHour="85.5"/>
+    <flow begin="0" color="1,1,1" end="3600" from="E0" id="F15" to="E3" type="Car" vehsPerHour="9.700000000000001"/>
+    <flow begin="0" color="1,1,1" end="3600" from="E1" id="F16" to="-E2" type="Car" vehsPerHour="12.950000000000001"/>
+    <flow begin="0" color="1,1,1" end="3600" from="E1" id="F17" to="E3" type="Car" vehsPerHour="162.8"/>
+    <flow begin="0" color="1,1,1" end="3600" from="E1" id="F18" to="-E0" type="Car" vehsPerHour="7.4"/>
+    <flow begin="0" color="1,1,1" end="3600" from="-E3" id="F19" to="-E0" type="Car" vehsPerHour="32.16"/>
+    <flow begin="0" color="1,1,1" end="3600" from="-E3" id="F20" to="-E1" type="Car" vehsPerHour="222.44"/>
+    <flow begin="0" color="1,1,1" end="3600" from="-E3" id="F21" to="-E2" type="Car" vehsPerHour="13.4"/>
+</routes>
