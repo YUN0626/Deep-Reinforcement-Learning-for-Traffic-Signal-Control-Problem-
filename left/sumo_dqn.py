@@ -1,3 +1,4 @@
+# 參考 https://pytorch.org/tutorials/intermediate/reinforcement_q_learning.html
 import sumo_envirment
 import  gym
 import numpy as np 
