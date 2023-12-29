@@ -1,0 +1,21 @@
+<?xml version = "1.0" encoding="UTF-8"?>
+<routes>
+    <vType id="Car"  vClass = "passenger" color ="1,1,1" maxSpeed="31.06"/>
+    
+    <flow id = "32" type = "Car" beg="0" end="3600" vehsPerHour="610" color="1,1,1" from="E2" to="-E1"/>
+    <flow id = "30" type = "Car" beg="0" end="3600" vehsPerHour="1221" color="1,1,1" from="E2" to="-E0"/>
+    <flow id = "34" type = "Car" beg="0" end="3600" vehsPerHour="611" color="1,1,1" from="E2" to="E3"/>
+    
+    <flow id = "02" type = "Car" beg="0" end="3600" vehsPerHour="732" color="1,0,0" from="E0" to="-E1"/>
+    <flow id = "03" type = "Car" beg="0" end="3600" vehsPerHour="1463" color="1,0,0" from="E0" to="-E2"/>
+    <flow id = "04" type = "Car" beg="0" end="3600" vehsPerHour="732" color="1,0,0" from="E0" to="E3"/>
+    
+    <flow id = "20" type = "Car" beg="0" end="3600" vehsPerHour="377" color="0,1,0" from="E1" to="-E0"/>
+    <flow id = "23" type = "Car" beg="0" end="3600" vehsPerHour="377" color="0,1,0" from="E1" to="-E2"/>
+    <flow id = "24" type = "Car" beg="0" end="3600" vehsPerHour="755" color="0,1,0" from="E1" to="E3"/>
+    
+    <flow id = "40" type = "Car" beg="0" end="3600" vehsPerHour="506" color="0,0,1" from="-E3" to="-E0"/>
+    <flow id = "42" type = "Car" beg="0" end="3600" vehsPerHour="1013" color="0,0,1" from="-E3" to="-E1"/>
+    <flow id = "43" type = "Car" beg="0" end="3600" vehsPerHour="507" color="0,0,1" from="-E3" to="-E2"/>
+    
+</routes>
