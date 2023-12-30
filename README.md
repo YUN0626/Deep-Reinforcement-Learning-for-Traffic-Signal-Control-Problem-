@@ -28,7 +28,7 @@ Through an in-depth study of a single intersection, we hope to master more effec
 **Deep Q networks (DQN)​**
 
 ![替代文字](https://github.com/YUN0626/Deep-Reinforcement-Learning-for-Traffic-Signal-Control-Problem-/blob/main/Figure/queuelength.png)
-
+(https://github.com/YUN0626/Deep-Reinforcement-Learning-for-Traffic-Signal-Control-Problem-/blob/main/Figure/DQN.jpg)
 Deep Q-Networks (DQNs) are a type of neural network that is used to learn the optimal action-selection policy in a reinforcement learning setting.​
 
 DQNs work by using a neural network to approximate the action-value function, which maps states of the environment to the expected return (i.e., the sum of future rewards) for each possible action. The goal of the DQN is to learn the optimal policy, which is the action that will maximize the expected return for each state.​
