@@ -53,8 +53,6 @@ This functionality allows for the simulation of traffic conditions under differe
 3.Traffic Control and Management: The simulation platform supports the modeling of various traffic control measures such as traffic lights, stop signs, and priority rules.
 It is a valuable tool for assessing the effectiveness of traffic signal timings and other control strategies in improving traffic flow.
 
-![image](https://github.com/YUN0626/Deep-Reinforcement-Learning-for-Traffic-Signal-Control-Problem-/assets/154335462/374bb159-fd50-4742-bc42-c0174eb48321)
-
 
 ## Data Collection and Analysis Result
 
