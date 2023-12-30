@@ -35,6 +35,9 @@ Deep Q-Networks (DQNs) are a type of neural network that is used to learn the op
 
 DQNs work by using a neural network to approximate the action-value function, which maps states of the environment to the expected return (i.e., the sum of future rewards) for each possible action. The goal of the DQN is to learn the optimal policy, which is the action that will maximize the expected return for each state.​
 
+![替代文字](https://github.com/YUN0626/Deep-Reinforcement-Learning-for-Traffic-Signal-Control-Problem-/blob/main/Figure/ora-rl.jpg)
+
+
 When we input the state to the agent (DQN), we hope it can decide how many seconds the traffic light should last based on the current traffic situation, and that is action.​
 
 We use the Simulation of Urban MObility (SUMO) to simulate this action and calculate the reward as well as the next state. ​
