@@ -44,8 +44,22 @@ We use the Simulation of Urban MObility (SUMO) to simulate this action and calcu
 
 ![替代文字](https://github.com/YUN0626/Deep-Reinforcement-Learning-for-Traffic-Signal-Control-Problem-/blob/main/Figure/sumo.jpg)
 
+1.Microscopic simulation: SUMO employs a microscopic simulation approach, modeling individual vehicles and their interactions within the traffic network. 
+This allows for a realistic representation of traffic dynamics, including vehicle acceleration, deceleration, and lane-changing behaviors.
+
+2.Traffic Demand Modeling: SUMO enables users to specify traffic demand patterns, including the generation and distribution of trips throughout the network. 
+This functionality allows for the simulation of traffic conditions under different scenarios and helps assess the impact of changes in demand on the transportation system.
+
+3.Traffic Control and Management: The simulation platform supports the modeling of various traffic control measures such as traffic lights, stop signs, and priority rules.
+It is a valuable tool for assessing the effectiveness of traffic signal timings and other control strategies in improving traffic flow.
+
+![image](https://github.com/YUN0626/Deep-Reinforcement-Learning-for-Traffic-Signal-Control-Problem-/assets/154335462/374bb159-fd50-4742-bc42-c0174eb48321)
+
 
 ## Data Collection and Analysis Result
+
+![替代文字](https://github.com/YUN0626/Deep-Reinforcement-Learning-for-Traffic-Signal-Control-Problem-/blob/main/Figure/%E8%BB%8A%E6%B5%81%E9%87%8F%E5%9C%96.jpg)
+
 ● State : The total number of vehicles on all lanes entering the intersection and the current time orientation
 
 ● Action :Green Light Duration [20,25,35,45]
@@ -69,7 +83,7 @@ We use the Simulation of Urban MObility (SUMO) to simulate this action and calcu
 The reason is that in the early stages of training, the decision-making of the neural network may not be accurate. 
 We hope to experience a variety of situations early in training to ensure the diversity of the training data. Our setting for epsilon starts at 0.9 and eventually decreases to 0.05.
 
-3.Soft update is a method of updating network parameters."
+3.Soft update is a method of updating network parameters.
 
 ## Conclusion and Future work  
 ● Average Travel Time(ATT):
