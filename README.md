@@ -42,6 +42,8 @@ When we input the state to the agent (DQN), we hope it can decide how many secon
 
 We use the Simulation of Urban MObility (SUMO) to simulate this action and calculate the reward as well as the next state. ​
 
+![替代文字](https://github.com/YUN0626/Deep-Reinforcement-Learning-for-Traffic-Signal-Control-Problem-/blob/main/Figure/sumo.jpg)
+
 
 ## Data Collection and Analysis Result
 ● State : The total number of vehicles on all lanes entering the intersection and the current time orientation
@@ -52,8 +54,7 @@ We use the Simulation of Urban MObility (SUMO) to simulate this action and calcu
 
 ● Direction :east-west direction green lights, yellow lights, and the north-south direction green lights, yellow lights, turn left  with the yellow light duration fixed at 3 seconds. 
 
-![替代文字](https://www.researchgate.net/figure/Agent-and-environment-interaction-diagram-with-DQN-The-pseudo-code-for-DQN-training-is_fig3_372203207![image](https://github.com/YUN0626/Deep-Reinforcement-Learning-for-Traffic-Signal-Control-Problem-/assets/154335462/54326937-ea95-4715-89e3-3174bd8c0f06)
-)
+![替代文字](https://github.com/YUN0626/Deep-Reinforcement-Learning-for-Traffic-Signal-Control-Problem-/blob/main/Figure/Direction.jpg)
 
 
 # Hyperparameter
