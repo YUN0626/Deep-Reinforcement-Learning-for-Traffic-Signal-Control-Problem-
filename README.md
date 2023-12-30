@@ -131,4 +131,17 @@ Achieving a strategy that simultaneously improves traffic conditions and is conv
 
 
 ## Reference  
+[1]  Zheng, G., Xiong, Y., Zang, X., et al. (2019), “Learning Phase Competition for Traffic Signal Control”
+
+[2] Chen, C., Wei et al. 172 (2020), “Toward A Thousand Lights: Decentralized Deep Reinforcement Learning for Large-Scale Traffic Signal Control”, Proceedings of the AAAI Conference on Artificial Intelligence, Vol. 34 No. 04, pp. 3414–3421.
+
+[3] 交通部運輸研究所(110)應用人工智慧技術進行交通數據蒐集暨號誌控制之研究
+
+[4]  Bouktif, S., Cheniki, A., & Ouni, A. (2021). Traffic signal control using hybrid action space deep reinforcement learning. Sensors, 21(7), 2302.
+
+[5] 交通部運輸研究所(111)臺灣公路容量手冊
+
+[6] https://sumo.dlr.de/docs/index.html
+
+[7]  https://www.researchgate.net/figure/Agent-and-environment-interaction-diagram-with-DQN-The-pseudo-code-for-DQN-training-is_fig3_372203207
 
