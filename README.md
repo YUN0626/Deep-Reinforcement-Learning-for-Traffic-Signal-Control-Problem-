@@ -26,7 +26,7 @@ Through an in-depth study of a single intersection, we hope to master more effec
 
 # Methodology
 **Deep Q networks (DQN)​**
-：![替代文字](/path/to/image.png)
+
 
 Deep Q-Networks (DQNs) are a type of neural network that is used to learn the optimal action-selection policy in a reinforcement learning setting.​
 
@@ -52,7 +52,7 @@ Reward
 
 
 queuelength.png
-
+：!(/path/to/queuelength.png)
 
 ## Conclusion and Future work  
 Increase the acceptable level of delay into reward design.​
